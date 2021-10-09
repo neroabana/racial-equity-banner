@@ -1,6 +1,5 @@
 import styles from "./styles.js";
 import template from "./template.js";
-
 var styleTag;
 var bannerTag;
 var fontLink;
